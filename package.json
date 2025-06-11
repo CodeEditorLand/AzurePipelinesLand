@@ -138,10 +138,10 @@
         "@vscode/test-cli": "^0.0.11",
         "@vscode/test-electron": "^2.5.2",
         "eslint": "^9.28.0",
-        "mocha": "^11.5.0",
+        "mocha": "^11.6.0",
         "ts-loader": "^9.5.2",
         "typescript": "~5.8.3",
-        "typescript-eslint": "^8.33.1",
+        "typescript-eslint": "^8.34.0",
         "webpack": "^5.99.9",
         "webpack-cli": "^6.0.1"
     },
